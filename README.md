@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project is an **interactive Supermarket Sales Dashboard** built using **Power BI**.  
 It provides **data-driven insights** into **sales trends, customer behavior, branch performance, and product profitability**.  
-The dataset was **cleaned, processed, and visualized** to create actionable business intelligence.
+The dataset was **cleaned, processed, and visualized** to create actionable business intelligence. 
 
 ## 📂 Project Structure
 📂 Supermarket_Sales_Dashboard/
